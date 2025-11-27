@@ -2,7 +2,7 @@
 
 A full-featured e-commerce web application built with Django. This platform allows users to browse products, manage their shopping cart, and place orders, while administrators can manage inventory and orders through a dedicated admin interface.
 
----
+----
 
 ## 📌 Features
 
